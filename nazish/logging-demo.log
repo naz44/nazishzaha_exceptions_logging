@@ -1,0 +1,6 @@
+2020-02-21 16:12:32 DEBUG SimpleInterest:16 - This is log info of SimpleInterest .The simple interest is given below
+2020-02-21 16:12:32 INFO  SimpleInterest:17 - Simple Interest= 100.0
+2020-02-21 16:12:32 DEBUG CompoundInterest:22 - This is log info of CompoundInterest .The compound interest is given below
+2020-02-21 16:12:32 INFO  CompoundInterest:23 - Compound Interest= 102.5
+2020-02-21 16:12:32 DEBUG HouseCost:29 - This is log info of house estimation cost .The cost is given below
+2020-02-21 16:12:32 INFO  HouseCost:30 - House construction cost= 37500.0
